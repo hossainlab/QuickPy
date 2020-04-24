@@ -1,29 +1,33 @@
 # QuickPy: Quick Python for Data Science / Genomic Data Science / Bioinformatics
 
 ## Table of Contents 
-1.Printing Message
-2.Variables
-3.Reserved Keywords => Don't use as a variable name
-4.Imports
-5.Data Types
-6.Data Type Conversion
-7.Math
-8.Comparisons and Boolean Operations
-9.Conditional Statements
-10.Lists
-11.Tuples
-12.Strings
-13.Dictionaries
-14.Sets
-15.Defining Functions
-16.Anonymous (Lambda) Functions
-17.For Loops and While Loops
-18.Comprehensions
-19.Map and Filter
-20.Randomness
-21.Working with Files
-22.Common Mistakes and Errors
-23.Resources
+- Printing Message
+- Variables
+- Reserved Keywords => Don't use as a variable name
+- Imports
+- Data Types
+- Data Type Conversion
+- Math
+- Comparisons and Boolean Operations
+- Conditional Statements
+- Lists
+- Tuples
+- Strings
+- Dictionaries
+- Sets
+- Defining Functions
+- Anonymous (Lambda) Functions
+- For Loops and While Loops
+- Comprehensions
+- Map and Filter
+- Randomness
+- Working with Files
+- Common Mistakes and Errors
+- Resources
+
+## Jupyter Notebook Viewer 
+__if you don't have Jupyter Notebook on your system__
+- [See on nbviewer](https://nbviewer.jupyter.org/github/jubayer-hossain/QuickPy/blob/master/QuickPython.ipynb#Resources)
 
 ## Resources
 - http://www.dataschool.io/
